@@ -1,0 +1,78 @@
+.nav .container a	{
+	text-transform: uppercase;
+	color: #3f314b;
+	font-size: 14px;
+	font-weight: bold;
+	position: relative;
+	top: 30px;
+	padding: 20px 30px;
+	padding-left: 30px;
+}
+.nav a	{
+	color: 3f314b;
+	font-size: 14px;
+	font-weight: bold;
+	text-transform: uppercase;
+}
+.jumbotron	{
+	height: 400px;
+	background-image: url("images/1.jpg");
+	background-size: 10%;
+	position: relative;
+	top: 60px;
+	padding: none;
+}
+.jumbotron .container	{
+	position: relative;
+	text-align: center;
+	padding-top: 100px;
+	color: white;
+}
+.jumbotron h1	{
+	font-family: 'Shift', sans-serif;
+	font-size: 48px;
+	text-transform: uppercase;
+}
+.jumbotron p{
+	
+}
+.nav li	{
+	display: inline;
+	padding-top: 30px;
+}
+.articl	{
+	background-image: url("images/3.jpg");
+	position: relative;
+	top: 50px;
+	padding-left: 40px;
+	padding-top: 15px;
+	color: white;
+}
+.articl img	{
+	width: 10%;
+	height: 10%;
+}
+.articl li	{
+	list-style-type: none;
+}
+.tab-content	{
+	position: relative;
+	top: 18px;
+}
+.tab-content h5	{
+	text-align: right;
+}
+select option:nth-child(1)	{
+	color: blue;
+	display: none;
+}
+.banner	{
+	background-image: url("images/3.jpg");
+	height: 80px;
+	position: relative;
+	top:50px;
+}
+.feedback	{
+	position: relative;
+	top: 80px;
+}
